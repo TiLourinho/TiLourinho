@@ -1,6 +1,6 @@
 ## Olá, eu sou Tiago Lourinho!
 
-### Quem sou eu?
+### Sobre mim
 
   Sou estudante de desenvolvimento web na <strong><a href="https://www.betrybe.com/" style="text-decoration: none">Trybe</a></strong>, tenho 38 anos e sou de Brasília - DF. Trabalhei como design gráfico por muitos anos, principalmente com tratamento de imagens e diagramação de álbuns de casamento. Há um ano decidi mudar de carreira e estou apaixonado pelo universo da programação.
 
@@ -39,5 +39,9 @@
 
 ### Contato
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourinho-tiago/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lourinho.tiago@gmail.com)](mailto:lourinho.tiago@gmail.com)
+<div align="center">
+
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourinho-tiago/)
+  [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lourinho.tiago@gmail.com)](mailto:lourinho.tiago@gmail.com)
+  
+</div>
