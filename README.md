@@ -1,15 +1,16 @@
-### Olá!
+## Olá!
 
-#### Quem sou eu?
+### Quem sou eu?
 
   Eu sou o Tiago, estudante de desenvolvimento web na <strong><a href="https://www.betrybe.com/" style="text-decoration: none">Trybe</a></strong>, tenho 38 anos e sou de Brasília - DF. Trabalhei como design gráfico por muitos anos, principalmente com tratamento de imagens e diagramação de álbuns de casamento. Há um ano decidi mudar de carreira e estou apaixonado pelo universo da programação.
 
   Meu hobby favorito é jogar no PC. Qualquer RPG já garante a diversão por aqui. Também gosto muito de música, de tocar. Amo séries, filmes, livros, HQs e tudo fica ainda melhor se tiver nerdice envolvida.
   
-#### Linguagens e ferramentas
+### Linguagens e ferramentas
 
 <div align="center">
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/Git.png" alt="Git logo" onclick="return false"/>
+  <a href="https://github.com/TiLourinho">
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/Git.png" alt="Git logo"/>
   <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/HTML.png" alt="HTML logo"/>
   <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/CSS.png" alt="CSS logo"/>
   <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/JavaScript.png" alt="JavaScript logo"/>
@@ -22,7 +23,7 @@
   <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/MongoDB.png" alt="MongoDB logo"/>
 </div>
 
-#### Estatísticas
+### Estatísticas
 
 <div align="center">
   <a href="https://github.com/TiLourinho">
@@ -30,7 +31,7 @@
   <img height="160em" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiLourinho&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
-#### Contato
+### Contato
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourinho-tiago/)
-[![Gmail Badge](https://img.shields.io/badge/-lourinho.tiago@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lourinho.tiago@gmail.com)](mailto:lourinho.tiago@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lourinho.tiago@gmail.com)](mailto:lourinho.tiago@gmail.com)
