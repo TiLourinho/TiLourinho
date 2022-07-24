@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Tiago Lourinho!</h1>
+<h2 align="center">Olá, eu sou Tiago Lourinho!</h1>
 
 ### Sobre mim
 
