@@ -8,12 +8,29 @@
   
 #### Linguagens e ferramentas
 
-<div>
-  <img width="200px" height="auto" src="" alt=""/>
+<div align="center">
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/Git.png" alt="Git logo" onclick="return false"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/HTML.png" alt="HTML logo"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/CSS.png" alt="CSS logo"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/JavaScript.png" alt="JavaScript logo"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/React.png" alt="React logo"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/Docker.png" alt="Docker logo"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/MySQL.png" alt="MySQL logo"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/NodeJS.png" alt="NodeJS logo"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/Heroku.png" alt="Heroku logo"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/TypeScript.png" alt="TypeScript logo"/>
+  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/MongoDB.png" alt="MongoDB logo"/>
 </div>
+
+#### Estatísticas
 
 <div align="center">
   <a href="https://github.com/TiLourinho">
   <img height="160em" width="41.5%" src="https://github-readme-stats.vercel.app/api?username=TiLourinho&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="160em" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiLourinho&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
+
+#### Contato
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourinho-tiago/)
+[![Gmail Badge](https://img.shields.io/badge/-lourinho.tiago@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lourinho.tiago@gmail.com)](mailto:lourinho.tiago@gmail.com)
