@@ -11,7 +11,6 @@
 ### Linguagens e ferramentas
 
 <div align="center">
-  <a href="https://github.com/TiLourinho">
   <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/Git.png" alt="Git logo"/>
   <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/HTML.png" alt="HTML logo"/>
   <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/CSS.png" alt="CSS logo"/>
