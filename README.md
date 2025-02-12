@@ -34,9 +34,9 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="100em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiLourinho&theme=discord_old_blurple" />
-  <img height="100em" width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiLourinho&theme=discord_old_blurple" />
-  <img height="100em" width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiLourinho&theme=discord_old_blurple" />
+  <img height="105em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiLourinho&theme=discord_old_blurple" />
+  <img height="105em" width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiLourinho&theme=discord_old_blurple" />
+  <img height="105em" width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiLourinho&theme=discord_old_blurple" />
 </div>
 
 ##
