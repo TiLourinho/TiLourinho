@@ -34,8 +34,9 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" width="auto" src="https://github-readme-stats.vercel.app/api?username=TiLourinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiLourinho&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiLourinho&theme=discord_old_blurple" />
+  <img height="140em" width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiLourinho&theme=discord_old_blurple" />
+  <img height="140em" width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiLourinho&theme=discord_old_blurple" />
 </div>
 
 ##
