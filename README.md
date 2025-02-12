@@ -34,7 +34,6 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/TiLourinho">
   <img height="160em" width="auto" src="https://github-readme-stats.vercel.app/api?username=TiLourinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiLourinho&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -44,10 +43,10 @@
 ### Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lourinho-tiago/" target="_blank" rel="noopener noreferrer">
-    <img height="auto" width="15%" src="./assets/icons/linkedin.png" alt="Linkedin logo"/>
+  <a href="https://www.linkedin.com/in/lourinho-tiago/" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
+    <img height="auto" width="5%" src="./assets/icons/linkedin.png" alt="Linkedin logo"/>
   </a>
   <a href="mailto:lourinho.tiago@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img height="auto" width="15%" src="./assets/icons/gmail.png" alt="Gmail logo"/>
+    <img height="auto" width="5%" src="./assets/icons/gmail.png" alt="Gmail logo"/>
   </a>
 </div>
