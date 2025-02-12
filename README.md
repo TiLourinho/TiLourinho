@@ -2,26 +2,31 @@
 
 ### Sobre mim
 
-<p align="center">Formado em desenvolvimento web na <strong><a href="https://www.betrybe.com/" style="text-decoration: none">Trybe</a></strong>, tenho 40 anos e sou de Brasília - DF. Trabalhei como design gráfico por muitos anos, principalmente com tratamento de imagens e diagramação de álbuns de casamento. Há um ano decidi mudar de carreira e estou apaixonado pelo universo da programação.</p>
+<p align="center">Sou desenvolvedor web formado pela <strong><a href="https://www.betrybe.com/" style="text-decoration: none">Trybe</a></strong>, com 42 anos, de Brasília. Antes da programação, atuei por muitos anos como designer gráfico, focado em tratamento de imagens e diagramação de álbuns de casamento. Agora, em transição de carreira, estou mergulhando de cabeça no mundo do código e adorando cada desafio.</p>
 
-<p align="center">Meu hobby favorito é jogar no PC. Qualquer RPG já garante a diversão por aqui. Também gosto muito de música, de tocar. Amo séries, filmes, livros, HQs e tudo fica ainda melhor se tiver nerdice envolvida.</p>
+<p align="center">No tempo livre, sou gamer de PC, especialmente fã de RPGs. Também curto música and play the BASS. Filmes, séries, livros, HQs - se tiver um toque de nerdice, melhor ainda!</p>
 
 ##
 
 ### Linguagens e ferramentas
 
 <div align="center">
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/Git.png" alt="Git logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/HTML.png" alt="HTML logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/CSS.png" alt="CSS logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/JavaScript.png" alt="JavaScript logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/React.png" alt="React logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/Docker.png" alt="Docker logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/MySQL.png" alt="MySQL logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/NodeJS.png" alt="NodeJS logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/Heroku.png" alt="Heroku logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/TypeScript.png" alt="TypeScript logo"/>
-  <img width="5%" height="auto" src="https://github.com/TiLourinho/TiLourinho/blob/main/assets/MongoDB.png" alt="MongoDB logo"/>
+  <img height="auto" width="5%" src="./assets/icons/git.svg" alt="Git logo"/>
+  <img height="auto" width="5%" src="./assets/icons/html.svg" alt="HTML logo"/>
+  <img height="auto" width="5%" src="./assets/icons/css.svg" alt="CSS logo"/>
+  <img height="auto" width="5%" src="./assets/icons/ejs.svg" alt="EJS logo"/>
+  <img height="auto" width="5%" src="./assets/icons/javascript.svg" alt="JavaScript logo"/>
+  <img height="auto" width="5%" src="./assets/icons/react.svg" alt="React logo"/>
+  <img height="auto" width="5%" src="./assets/icons/nextjs.svg" alt="Next.js logo"/>
+  <img height="auto" width="5%" src="./assets/icons/nodejs.svg" alt="Node.js logo"/>
+  <img height="auto" width="5%" src="./assets/icons/express-js.svg" alt="Express logo"/>
+  <img height="auto" width="5%" src="./assets/icons/sequelize.svg" alt="Sequelize logo"/>
+  <img height="auto" width="5%" src="./assets/icons/docker.svg" alt="Docker logo"/>
+  <img height="auto" width="5%" src="./assets/icons/mysql.svg" alt="MySQL logo"/>
+  <img height="auto" width="5%" src="./assets/icons/typescript.svg" alt="TypeScript logo"/>
+  <img height="auto" width="5%" src="./assets/icons/mongodb.svg" alt="MongoDB logo"/>
+  <img height="auto" width="5%" src="./assets/icons/python.svg" alt="Python logo"/>
+  <img height="auto" width="5%" src="./assets/icons/c-sharp.svg" alt="C# logo"/>
 </div>
 
 ##
@@ -39,8 +44,10 @@
 ### Contato
 
 <div align="center">
-
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourinho-tiago/)
-  [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lourinho.tiago@gmail.com)](mailto:lourinho.tiago@gmail.com)
-  
+  <a href="https://www.linkedin.com/in/lourinho-tiago/" target="_blank" rel="noopener noreferrer">
+    <img height="auto" width="15%" src="./assets/icons/linkedin.svg" alt="Linkedin logo"/>
+  </a>
+  <a href="mailto:lourinho.tiago@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img height="auto" width="15%" src="./assets/icons/gmail.svg" alt="Gmail logo"/>
+  </a>
 </div>
