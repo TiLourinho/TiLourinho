@@ -11,22 +11,22 @@
 ### Linguagens e ferramentas
 
 <div align="center">
-  <img height="auto" width="5%" src="./assets/icons/git.svg" alt="Git logo"/>
-  <img height="auto" width="5%" src="./assets/icons/html.svg" alt="HTML logo"/>
-  <img height="auto" width="5%" src="./assets/icons/css.svg" alt="CSS logo"/>
-  <img height="auto" width="5%" src="./assets/icons/ejs.svg" alt="EJS logo"/>
-  <img height="auto" width="5%" src="./assets/icons/javascript.svg" alt="JavaScript logo"/>
-  <img height="auto" width="5%" src="./assets/icons/react.svg" alt="React logo"/>
-  <img height="auto" width="5%" src="./assets/icons/nextjs.svg" alt="Next.js logo"/>
-  <img height="auto" width="5%" src="./assets/icons/nodejs.svg" alt="Node.js logo"/>
-  <img height="auto" width="5%" src="./assets/icons/express-js.svg" alt="Express logo"/>
-  <img height="auto" width="5%" src="./assets/icons/sequelize.svg" alt="Sequelize logo"/>
-  <img height="auto" width="5%" src="./assets/icons/docker.svg" alt="Docker logo"/>
-  <img height="auto" width="5%" src="./assets/icons/mysql.svg" alt="MySQL logo"/>
-  <img height="auto" width="5%" src="./assets/icons/typescript.svg" alt="TypeScript logo"/>
-  <img height="auto" width="5%" src="./assets/icons/mongodb.svg" alt="MongoDB logo"/>
-  <img height="auto" width="5%" src="./assets/icons/python.svg" alt="Python logo"/>
-  <img height="auto" width="5%" src="./assets/icons/c-sharp.svg" alt="C# logo"/>
+  <img height="auto" width="5%" src="./assets/icons/git.png" alt="Git logo"/>
+  <img height="auto" width="5%" src="./assets/icons/html.png" alt="HTML logo"/>
+  <img height="auto" width="5%" src="./assets/icons/css.png" alt="CSS logo"/>
+  <img height="auto" width="5%" src="./assets/icons/ejs.png" alt="EJS logo"/>
+  <img height="auto" width="5%" src="./assets/icons/javascript.png" alt="JavaScript logo"/>
+  <img height="auto" width="5%" src="./assets/icons/react.png" alt="React logo"/>
+  <img height="auto" width="5%" src="./assets/icons/nextjs.png" alt="Next.js logo"/>
+  <img height="auto" width="5%" src="./assets/icons/nodejs.png" alt="Node.js logo"/>
+  <img height="auto" width="5%" src="./assets/icons/express-js.png" alt="Express logo"/>
+  <img height="auto" width="5%" src="./assets/icons/sequelize.png" alt="Sequelize logo"/>
+  <img height="auto" width="5%" src="./assets/icons/docker.png" alt="Docker logo"/>
+  <img height="auto" width="5%" src="./assets/icons/mysql.png" alt="MySQL logo"/>
+  <img height="auto" width="5%" src="./assets/icons/typescript.png" alt="TypeScript logo"/>
+  <img height="auto" width="5%" src="./assets/icons/mongodb.png" alt="MongoDB logo"/>
+  <img height="auto" width="5%" src="./assets/icons/python.png" alt="Python logo"/>
+  <img height="auto" width="5%" src="./assets/icons/c-sharp.png" alt="C# logo"/>
 </div>
 
 ##
