@@ -45,9 +45,9 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lourinho-tiago/" target="_blank" rel="noopener noreferrer">
-    <img height="auto" width="15%" src="./assets/icons/linkedin.svg" alt="Linkedin logo"/>
+    <img height="auto" width="15%" src="./assets/icons/linkedin.png" alt="Linkedin logo"/>
   </a>
   <a href="mailto:lourinho.tiago@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img height="auto" width="15%" src="./assets/icons/gmail.svg" alt="Gmail logo"/>
+    <img height="auto" width="15%" src="./assets/icons/gmail.png" alt="Gmail logo"/>
   </a>
 </div>
